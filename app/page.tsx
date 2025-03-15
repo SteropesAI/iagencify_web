@@ -105,7 +105,7 @@ export default function Home() {
           <h1 className="relative text-white pb-3 leading-[65px] z-10 isolate">IAgencify - "Créer Demain"</h1> 
           </div>          
           <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
-            La première agence de communication augmentée par l'IA, conçue pour les entreprises en quête de créativité, rapidité et innovation.
+            La première agence de communication augmentée par l&apos;IA, conçue pour les entreprises en quête de créativité, rapidité et innovation.
           </p>
           
 

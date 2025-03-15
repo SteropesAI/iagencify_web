@@ -95,7 +95,7 @@ export default function ProjectsPage() {
               Nos projets
             </h1>
             <p className="max-w-2xl mx-auto text-gray-400 text-lg">
-              Découvrez comment l'IA révolutionne la communication pour nos clients à travers différents secteurs.
+              Découvrez comment l&apos;IA révolutionne la communication pour nos clients à travers différents secteurs.
             </p>
           </div>
           

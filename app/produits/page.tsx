@@ -200,13 +200,13 @@ export default function ProductsPage() {
           <div className="text-center mb-16">
             <div className="inline-block mb-4 px-4 py-1 rounded-full border border-blue-500/30 bg-blue-500/10">
               <Sparkles className="w-4 h-4 text-blue-400 inline mr-2" />
-              <span className="text-blue-300 text-sm">Propulsé par l'intelligence artificielle</span>
+              <span className="text-blue-300 text-sm">Propulsé par l&apos;intelligence artificielle</span>
             </div>
             <h1 className="text-4xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-[#1E90FF] to-[#C0C0C0]">
               Nos produits et services
             </h1>
             <p className="max-w-2xl mx-auto text-gray-400 text-lg">
-              Des solutions créatives accélérées par l'IA pour tous vos besoins en communication.
+              Des solutions créatives accélérées par l&apos;IA pour tous vos besoins en communication.
               De la conception à la livraison en un temps record.
             </p>
           </div>
@@ -263,7 +263,7 @@ export default function ProductsPage() {
             <div className="text-center mb-12">
               <h2 className="text-3xl font-bold mb-4 text-white">Abonnements mensuels</h2>
               <p className="max-w-2xl mx-auto text-gray-400">
-                Profitez de nos services en continu avec nos formules d'abonnement mensuel sans engagement.
+                Profitez de nos services en continu avec nos formules d&apos;abonnement mensuel sans engagement.
                 Un Neural Creative Officer dédié pour tous vos besoins en communication.
               </p>
             </div>
@@ -334,19 +334,19 @@ export default function ProductsPage() {
               
               <div className="bg-gray-800/30 backdrop-blur-sm rounded-xl p-6 border border-gray-700/50">
                 <h3 className="text-xl font-medium text-white mb-2">Combien de révisions sont incluses ?</h3>
-                <p className="text-gray-300">Tous nos produits incluent jusqu'à 3 cycles de révision pour assurer votre satisfaction. Les abonnements mensuels bénéficient de révisions illimitées pendant toute la durée de l'abonnement.</p>
+                <p className="text-gray-300">Tous nos produits incluent jusqu'à 3 cycles de révision pour assurer votre satisfaction. Les abonnements mensuels bénéficient de révisions illimitées pendant toute la durée de l&apos;abonnement.</p>
               </div>
               
               <div className="bg-gray-800/30 backdrop-blur-sm rounded-xl p-6 border border-gray-700/50">
                 <h3 className="text-xl font-medium text-white mb-2">Puis-je annuler mon abonnement ?</h3>
-                <p className="text-gray-300">Oui, nos abonnements sont sans engagement. Vous pouvez annuler à tout moment et votre abonnement restera actif jusqu'à la fin du mois en cours.</p>
+                <p className="text-gray-300">Oui, nos abonnements sont sans engagement. Vous pouvez annuler à tout moment et votre abonnement restera actif jusqu&apos;à la fin du mois en cours.</p>
               </div>
             </div>
           </div>
           
           {/* CTA à la fin de la page */}
           <div className="text-center mt-20 mb-10">
-            <h2 className="text-2xl font-bold mb-4 text-white">Besoin d'une solution personnalisée ?</h2>
+            <h2 className="text-2xl font-bold mb-4 text-white">Besoin d&apos;une solution personnalisée ?</h2>
             <p className="text-gray-400 mb-8 max-w-2xl mx-auto">
               Nos experts sont disponibles pour étudier vos besoins spécifiques et vous proposer une solution sur mesure.
             </p>

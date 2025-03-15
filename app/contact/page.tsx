@@ -23,7 +23,7 @@ export default function ContactPage() {
               Contactez-nous
             </h1>
             <p className="max-w-2xl mx-auto text-gray-400 text-lg">
-              Discutons de vos besoins en communication et découvrez comment l'IA peut transformer votre approche marketing.
+              Discutons de vos besoins en communication et découvrez comment l&apos;IA peut transformer votre approche marketing.
             </p>
           </div>
           
@@ -55,7 +55,7 @@ export default function ContactPage() {
                     <div>
                       <p className="text-gray-300">Adresse</p>
                       <p className="text-white font-medium">
-                        123 Avenue de l'Innovation<br />
+                        123 Avenue de l&apos;Innovation<br />
                         75001 Paris, France
                       </p>
                     </div>
@@ -64,7 +64,7 @@ export default function ContactPage() {
                   <div className="flex items-start">
                     <Clock className="w-5 h-5 text-blue-400 mt-1 mr-3" />
                     <div>
-                      <p className="text-gray-300">Heures d'ouverture</p>
+                      <p className="text-gray-300">Heures d&apos;ouverture</p>
                       <p className="text-white font-medium">
                         Lun - Ven: 9h à 18h<br />
                         (IA disponible 24/7)
@@ -77,10 +77,10 @@ export default function ContactPage() {
               <div className="bg-gray-800/30 backdrop-blur-sm rounded-2xl p-6 border border-gray-700/50">
                 <h2 className="text-xl font-semibold mb-4">Notre approche</h2>
                 <p className="text-gray-300 mb-4">
-                  Contrairement aux agences traditionnelles, nous combinons l'expertise humaine avec la puissance de l'IA pour offrir des résultats rapides, créatifs et abordables.
+                  Contrairement aux agences traditionnelles, nous combinons l&apos;expertise humaine avec la puissance de l&apos;IA pour offrir des résultats rapides, créatifs et abordables.
                 </p>
                 <p className="text-gray-300">
-                  Chaque projet bénéficie d'un Neural Creative Officer dédié qui supervise la qualité et la pertinence des créations.
+                  Chaque projet bénéficie d&apos;un Neural Creative Officer dédié qui supervise la qualité et la pertinence des créations.
                 </p>
               </div>
             </div>
@@ -103,21 +103,21 @@ export default function ContactPage() {
           <div className="space-y-6">
             <div className="bg-gray-800/30 backdrop-blur-sm rounded-xl p-6 border border-gray-700/50">
               <h3 className="text-xl font-medium text-white mb-2">Quel est le délai de réponse après avoir soumis un formulaire ?</h3>
-              <p className="text-gray-300">Nous répondons généralement dans les 24 heures ouvrables. Pour les demandes urgentes, n'hésitez pas à le préciser dans votre message.</p>
+              <p className="text-gray-300">Nous répondons généralement dans les 24 heures ouvrables. Pour les demandes urgentes, n&apos;hésitez pas à le préciser dans votre message.</p>
             </div>
             
             <div className="bg-gray-800/30 backdrop-blur-sm rounded-xl p-6 border border-gray-700/50">
-              <h3 className="text-xl font-medium text-white mb-2">Comment fonctionne votre service d'abonnement ?</h3>
-              <p className="text-gray-300">Notre abonnement mensuel vous donne accès à un service illimité de demandes (une demande active à la fois) avec l'assistance d'un Neural Creative Officer dédié.</p>
+              <h3 className="text-xl font-medium text-white mb-2">Comment fonctionne votre service d&apos;abonnement ?</h3>
+              <p className="text-gray-300">Notre abonnement mensuel vous donne accès à un service illimité de demandes (une demande active à la fois) avec l&apos;assistance d&apos;un Neural Creative Officer dédié.</p>
             </div>
             
             <div className="bg-gray-800/30 backdrop-blur-sm rounded-xl p-6 border border-gray-700/50">
               <h3 className="text-xl font-medium text-white mb-2">Puis-je demander des modifications sur les créations ?</h3>
-              <p className="text-gray-300">Absolument ! Nous offrons des cycles de révision pour chaque création afin d'assurer votre entière satisfaction.</p>
+              <p className="text-gray-300">Absolument ! Nous offrons des cycles de révision pour chaque création afin d&apos;assurer votre entière satisfaction.</p>
             </div>
             
             <div className="bg-gray-800/30 backdrop-blur-sm rounded-xl p-6 border border-gray-700/50">
-              <h3 className="text-xl font-medium text-white mb-2">Comment l'IA améliore-t-elle réellement ma communication ?</h3>
+              <h3 className="text-xl font-medium text-white mb-2">Comment l&apos;IA améliore-t-elle réellement ma communication ?</h3>
               <p className="text-gray-300">Notre IA analyse des milliards de données marketing pour créer des contenus optimisés, adaptés à votre secteur et à votre cible, tout en maintenant une cohérence parfaite avec votre identité.</p>
             </div>
           </div>

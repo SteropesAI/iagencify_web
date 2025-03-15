@@ -85,7 +85,7 @@ export default function Home() {
             IAgencify – "Créez demain"
           </h1>
           <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
-            La première agence de communication augmentée par l'IA, conçue pour les entreprises en quête de créativité, rapidité et innovation.
+            La première agence de communication augmentée par l&apos;IA, conçue pour les entreprises en quête de créativité, rapidité et innovation.
           </p>
           
           <div className="flex gap-4 justify-center">
@@ -131,7 +131,7 @@ export default function Home() {
   </div>
   {/* Sous-titre */}
   <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto backdrop-blur-sm">
-    La première agence de communication augmentée par l'IA, conçue pour les entreprises en quête de créativité, rapidité et innovation.
+    La première agence de communication augmentée par l&apos;IA, conçue pour les entreprises en quête de créativité, rapidité et innovation.
   </p>
   
   {/* Boutons */}
@@ -277,7 +277,7 @@ export default function Home() {
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl font-bold mb-6">Prêt à transformer votre communication ?</h2>
           <p className="text-xl mb-8 text-gray-200">
-            Avec IAgencify, l'IA devient votre alliée stratégique.
+            Avec IAgencify, l&apos;IA devient votre alliée stratégique.
           </p>
           <div className="space-x-4">
             <button className="bg-white text-blue-600 hover:bg-gray-100 font-bold py-3 px-8 rounded-lg text-lg transition-all">

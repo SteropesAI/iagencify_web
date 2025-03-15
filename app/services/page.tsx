@@ -200,7 +200,7 @@ export default function ServicesPage() {
               Nos services
             </h1>
             <p className="max-w-2xl mx-auto text-gray-400 text-lg">
-              Des solutions de communication augmentées par l'IA,
+              Des solutions de communication augmentées par l&apos;IA,
               alliant créativité, rapidité et efficacité.
             </p>
           </div>
@@ -209,10 +209,10 @@ export default function ServicesPage() {
           <div className="flex flex-col md:flex-row items-center gap-12 mb-24">
             <div className="flex-1">
               <BrainCircuit className="w-16 h-16 text-blue-400 mb-6" />
-              <h2 className="text-3xl font-bold mb-4">L'IA au service de votre communication</h2>
+              <h2 className="text-3xl font-bold mb-4">L&apos;IA au service de votre communication</h2>
               <p className="text-gray-400 mb-6">
-                IAgencify révolutionne l'approche traditionnelle des agences en combinant l'intelligence artificielle 
-                avec l'expertise créative humaine. Cette synergie nous permet de produire des contenus de haute qualité, 
+                IAgencify révolutionne l&apos;approche traditionnelle des agences en combinant l&apos;intelligence artificielle 
+                avec l&apos;expertise créative humaine. Cette synergie nous permet de produire des contenus de haute qualité, 
                 en un temps record et à des tarifs compétitifs.
               </p>
               <p className="text-gray-400">
@@ -234,7 +234,7 @@ export default function ServicesPage() {
                 </li>
                 <li className="flex items-start gap-3">
                   <CheckCircle className="w-5 h-5 text-blue-400 mt-1" />
-                  <span className="text-gray-300">Des tarifs jusqu'à 70% inférieurs aux agences traditionnelles</span>
+                  <span className="text-gray-300">Des tarifs jusqu&apos;à 70% inférieurs aux agences traditionnelles</span>
                 </li>
                 <li className="flex items-start gap-3">
                   <CheckCircle className="w-5 h-5 text-blue-400 mt-1" />
@@ -332,7 +332,7 @@ export default function ServicesPage() {
               Les avantages de notre approche
             </h2>
             <p className="max-w-2xl mx-auto text-center text-gray-400 mb-14">
-              Découvrez pourquoi notre modèle révolutionne l'industrie de la communication
+              Découvrez pourquoi notre modèle révolutionne l&apos;industrie de la communication
             </p>
             
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
