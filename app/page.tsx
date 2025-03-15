@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import { Brain, Clock, Target, Rocket, ChartBar, Coins, Share2, X, Store,Briefcase,ShoppingCart, MapPin, Heart, Building2, Palette, Check, User, LineChart, TrendingUp, CheckCircle, ArrowRight, Sparkles } from "lucide-react";
+import { Brain, Clock, Target, Rocket, ChartBar, Coins, Share2, X, Store,Briefcase,ShoppingCart, MapPin, Heart, Palette, Check, User, LineChart, TrendingUp, Sparkles } from "lucide-react";
 
 export default function Home() {
   const avantages = [
@@ -102,7 +102,7 @@ export default function Home() {
             <span className="text-blue-300">La première agence IA en France</span>
           </div>
           <div className="relative text-center mt-5 mb-12 text-5xl font-medium">
-          <h1 className="relative text-white pb-3 leading-[65px] z-10 isolate">IAgencify - "Créer Demain"</h1> 
+          <h1 className="relative text-white pb-3 leading-[65px] z-10 isolate">IAgencify - &quot;Créer Demain&quot;</h1> 
           </div>          
           <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
             La première agence de communication augmentée par l&apos;IA, conçue pour les entreprises en quête de créativité, rapidité et innovation.

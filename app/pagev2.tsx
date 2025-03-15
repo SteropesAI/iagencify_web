@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import { Brain, Clock, Target, Rocket, ChartBar, Coins, Share2, User, CheckCircle, ArrowRight, Sparkles, Building2, Palette, LineChart,TrendingUp } from "lucide-react";
+import { Brain, Clock, Target, Rocket, ChartBar, Coins, Share2, User, ArrowRight, Sparkles, Building2, Palette, LineChart,TrendingUp } from "lucide-react";
 
 export default function Home() {
   const avantages = [
@@ -82,7 +82,7 @@ export default function Home() {
           </div>
           
           <h1 className="text-6xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-[#0B4D7A] to-black">
-            IAgencify – "Créez demain"
+            IAgencify – &quot;Créez demain&quot;
           </h1>
           <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
             La première agence de communication augmentée par l&apos;IA, conçue pour les entreprises en quête de créativité, rapidité et innovation.
@@ -126,7 +126,7 @@ export default function Home() {
   {/* Titre principal avec dégradé */}
   <div className="bg-gray-500/50 p-6 rounded-xl backdrop-blur-sm">
   <h1 className="text-6xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-[#0B4D7A] to-black">
-    IAgencify – "Créez demain"
+    IAgencify – &quot;Créez demain&quot;
   </h1>
   </div>
   {/* Sous-titre */}

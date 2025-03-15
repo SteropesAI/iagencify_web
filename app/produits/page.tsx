@@ -329,12 +329,12 @@ export default function ProductsPage() {
               
               <div className="bg-gray-800/30 backdrop-blur-sm rounded-xl p-6 border border-gray-700/50">
                 <h3 className="text-xl font-medium text-white mb-2">Quels sont les délais de livraison ?</h3>
-                <p className="text-gray-300">Nos délais standard varient de 24h à 10 jours selon la complexité du projet. L'option Express garantit une livraison en 24h pour les projets éligibles moyennant un supplément.</p>
+                <p className="text-gray-300">Nos délais standard varient de 24h à 10 jours selon la complexité du projet. L&apos;option Express garantit une livraison en 24h pour les projets éligibles moyennant un supplément.</p>
               </div>
               
               <div className="bg-gray-800/30 backdrop-blur-sm rounded-xl p-6 border border-gray-700/50">
                 <h3 className="text-xl font-medium text-white mb-2">Combien de révisions sont incluses ?</h3>
-                <p className="text-gray-300">Tous nos produits incluent jusqu'à 3 cycles de révision pour assurer votre satisfaction. Les abonnements mensuels bénéficient de révisions illimitées pendant toute la durée de l&apos;abonnement.</p>
+                <p className="text-gray-300">Tous nos produits incluent jusqu&apos;3 cycles de révision pour assurer votre satisfaction. Les abonnements mensuels bénéficient de révisions illimitées pendant toute la durée de l&apos;abonnement.</p>
               </div>
               
               <div className="bg-gray-800/30 backdrop-blur-sm rounded-xl p-6 border border-gray-700/50">
