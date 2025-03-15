@@ -100,6 +100,7 @@ export default function ContactForm() {
         submitting: false,
         error: "Une erreur s'est produite. Veuillez réessayer."
       });
+      console.error("Une erreur est survenue:", error);
     }
   };
 
