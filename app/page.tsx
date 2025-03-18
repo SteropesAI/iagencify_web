@@ -247,6 +247,9 @@ export default function Home() {
       <p className="text-gray-400 text-lg max-w-2xl mx-auto">
         Un investissement rentable pour votre communication
       </p>
+      <p className="text-center text-gray-400 mt-12">
+      Comparatif entre une solution traditionelle en interne et l'abonnement mensuel IAgencify <br></br> Vous trouverez tous les produits sur la page Produits.
+    </p>
     </div>
 
     {/* Grille de prix */}
@@ -279,27 +282,27 @@ export default function Home() {
             </li>
             <li className="flex items-start gap-3">
               <X className="w-5 h-5 text-red-400 mt-1" />
-              <span className="text-gray-300">Délais de livraison	Variable (souvent plusieurs jours/semaines)</span>
+              <span className="text-gray-300">Délais de livraison	variable (souvent plusieurs jours/semaines)</span>
             </li>
             <li className="flex items-start gap-3">
               <X className="w-5 h-5 text-red-400 mt-1" />
-              <span className="text-gray-300">Nombre de demandes	Capacité limitée par l’humain</span>
+              <span className="text-gray-300">Nombre de demandes limitée par l&apos;humain</span>
             </li>
             <li className="flex items-start gap-3">
               <X className="w-5 h-5 text-red-400 mt-1" />
-              <span className="text-gray-300">Créativité & Idées	Dépend de l’expérience et de l’inspiration</span>
+              <span className="text-gray-300">Créativité & Idées :	Dépend de l&apos;expérience et de l&apos;inspiration</span>
             </li>
             <li className="flex items-start gap-3">
               <X className="w-5 h-5 text-red-400 mt-1" />
-              <span className="text-gray-300">Évolutivité	Recrutement et formation nécessaires</span>
+              <span className="text-gray-300">Évolutivité :	Recrutement et formation nécessaires</span>
             </li>
             <li className="flex items-start gap-3">
               <X className="w-5 h-5 text-red-400 mt-1" />
-              <span className="text-gray-300">Maîtrise des coûts	Coûts variables avec les prestataires</span>
+              <span className="text-gray-300">Maîtrise des coûts :	Coûts variables avec les prestataires</span>
             </li>
             <li className="flex items-start gap-3">
               <X className="w-5 h-5 text-red-400 mt-1" />
-              <span className="text-gray-300">Adaptabilité	Besoin d’apprentissage et d’expérience sur chaque secteur</span>
+              <span className="text-gray-300">Adaptabilité	: Besoin d&apos;apprentissage et d&apos;expérience sur chaque secteur</span>
             </li>
           </ul>
         </div>
@@ -354,7 +357,7 @@ export default function Home() {
             </li>
             <li className="flex items-start gap-3">
             <Check className="w-5 h-5 text-blue-400 mt-1" />
-              <span className="text-gray-300">S’adapte instantanément avec l’IA</span>
+              <span className="text-gray-300">S&apos;adapte instantanément avec l&apos;IA</span>
             </li>
             
           </ul>
@@ -368,7 +371,7 @@ export default function Home() {
 
     {/* Note en bas */}
     <p className="text-center text-gray-400 mt-12">
-      Tous nos plans incluent un accompagnement personnalisé et un accès à notre plateforme IA
+      Tous nos produits incluent un accompagnement personnalisé et un accès à notre plateforme IA pour les abonnements.
     </p>
   </div>
 </section>

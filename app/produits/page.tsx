@@ -23,7 +23,7 @@ const products = [
     ],
     price: 'À partir de 599€',
     deliveryTime: '72 heures',
-    popular: true
+    popular: false
   },
   {
     id: 'videos',
@@ -39,7 +39,7 @@ const products = [
     ],
     price: 'À partir de 899€',
     deliveryTime: '5 jours',
-    popular: false
+    popular: true
   },
   {
     id: 'visuels',
@@ -71,7 +71,7 @@ const products = [
     ],
     price: 'À partir de 399€',
     deliveryTime: '24 heures',
-    popular: false
+    popular: true
   },
   {
     id: 'ads',
@@ -103,7 +103,7 @@ const products = [
     ],
     price: 'À partir de 1999€',
     deliveryTime: '10 jours',
-    popular: true
+    popular: false
   },
   {
     id: 'identity',
