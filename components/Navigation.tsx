@@ -69,6 +69,12 @@ export default function Navigation() {
           
           {/* Bouton action - Desktop */}
           <div className="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
+          <Link 
+              href="/contact"
+              className="inline-flex items-center justify-center px-6 py-3 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-gradient-to-r from-[#0B4D7A] to-[#1E90FF] hover:opacity-90 transition-all"
+            >
+              Démarrer un projet
+            </Link>
             <Link
               href="/contact"
               className="ml-8 whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-blue-600 hover:bg-blue-700"

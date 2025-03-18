@@ -38,7 +38,7 @@ export default function ContactPage() {
                     <Mail className="w-5 h-5 text-blue-400 mt-1 mr-3" />
                     <div>
                       <p className="text-gray-300">Email</p>
-                      <p className="text-white font-medium">contact@iagencify.com</p>
+                      <p className="text-white font-medium">laurent@iagencify.com</p>
                     </div>
                   </div>
                   
@@ -46,18 +46,7 @@ export default function ContactPage() {
                     <Phone className="w-5 h-5 text-blue-400 mt-1 mr-3" />
                     <div>
                       <p className="text-gray-300">Téléphone</p>
-                      <p className="text-white font-medium">+33 (0)1 23 45 67 89</p>
-                    </div>
-                  </div>
-                  
-                  <div className="flex items-start">
-                    <MapPin className="w-5 h-5 text-blue-400 mt-1 mr-3" />
-                    <div>
-                      <p className="text-gray-300">Adresse</p>
-                      <p className="text-white font-medium">
-                        123 Avenue de l&apos;Innovation<br />
-                        75001 Paris, France
-                      </p>
+                      <p className="text-white font-medium">+33 (0)5 64 27 12 03</p>
                     </div>
                   </div>
                   
@@ -118,7 +107,7 @@ export default function ContactPage() {
             
             <div className="bg-gray-800/30 backdrop-blur-sm rounded-xl p-6 border border-gray-700/50">
               <h3 className="text-xl font-medium text-white mb-2">Comment l&apos;IA améliore-t-elle réellement ma communication ?</h3>
-              <p className="text-gray-300">Notre IA analyse des milliards de données marketing pour créer des contenus optimisés, adaptés à votre secteur et à votre cible, tout en maintenant une cohérence parfaite avec votre identité.</p>
+              <p className="text-gray-300">Notre IA analyse des millions de données marketing pour créer des contenus optimisés, adaptés à votre secteur et à votre cible, tout en maintenant une cohérence parfaite avec votre identité.</p>
             </div>
           </div>
         </div>

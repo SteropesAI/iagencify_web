@@ -314,7 +314,7 @@ export default function Home() {
           
           <div className="mb-8">
             <div className="text-3xl font-bold text-white">
-              SMIC <span className="text-lg font-normal text-gray-400">/mois</span>
+              SMIC brut <span className="text-lg font-normal text-gray-400">/mois</span>
             </div>
             <p className="text-sm text-gray-500">Sans engagement</p>
           </div>

@@ -144,7 +144,7 @@ const subscriptions = [
   {
     id: 'standard',
     title: 'Standard',
-    price: 'SMIC',
+    price: 'SMIC brut ',
     description: 'Pour les petites entreprises et entrepreneurs',
     features: [
       'Accès à tous les services',
@@ -158,7 +158,7 @@ const subscriptions = [
   {
     id: 'business',
     title: 'Business',
-    price: '2x SMIC',
+    price: '2x SMIC brut',
     description: 'Pour les PME avec des besoins réguliers',
     features: [
       'Tout ce qu\'inclut Standard',
