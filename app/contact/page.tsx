@@ -1,5 +1,5 @@
 import ContactForm from '@/components/ContactForm';
-import { Mail, Phone, MapPin, Clock } from 'lucide-react';
+import { Mail, Phone, Clock } from 'lucide-react';
 
 export const metadata = {
   title: 'Contact | IAgencify',
