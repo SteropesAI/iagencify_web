@@ -248,7 +248,7 @@ export default function Home() {
         Un investissement rentable pour votre communication
       </p>
       <p className="text-center text-gray-400 mt-12">
-      Comparatif entre une solution traditionelle en interne et l'abonnement mensuel IAgencify <br></br> Vous trouverez tous les produits sur la page Produits.
+      Comparatif entre une solution traditionelle en interne et l&apos;abonnement mensuel IAgencify <br></br> Vous trouverez tous les produits sur la page Produits.
     </p>
     </div>
 
