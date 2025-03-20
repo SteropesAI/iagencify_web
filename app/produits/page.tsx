@@ -1,6 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
-import { ArrowRight, Sparkles, Palette, Video, Image as ImageIcon, MessageSquare, Megaphone, Globe, CheckCircle, Layers, Zap } from 'lucide-react';
+import { ArrowRight, Sparkles, MessagesSquare , Palette, Video, Image as ImageIcon, MessageSquare, Megaphone, Globe, CheckCircle, Layers, Zap } from 'lucide-react';
 
 export const metadata = {
   title: 'Nos Produits | IAgencify',
@@ -9,6 +9,22 @@ export const metadata = {
 
 // Données des produits (à remplacer par des données dynamiques)
 const products = [
+  {
+    id: 'chatbot',
+    title: 'Chatbot IA Augmenté',
+    icon: <MessagesSquare className="w-10 h-10 text-blue-400" />,
+    description: 'Des assistants virtuels intelligents qui transforment l\'expérience client de votre site web',
+    features: [
+      'Chatbot personnalisé aux couleurs de votre marque',
+      'Intégration complète à votre site web',
+      'Base de connaissances alimentée par votre contenu',
+      'Capacité de réponse 24/7 à vos clients',
+      'Guide d\'utilisation du logo'
+    ],
+    price: 'À partir de 899€',
+    deliveryTime: '72 heures',
+    popular: false
+  },  
   {
     id: 'logos',
     title: 'Création de logos',
