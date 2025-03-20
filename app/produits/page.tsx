@@ -13,17 +13,17 @@ const products = [
     id: 'chatbot',
     title: 'Chatbot IA Augmenté',
     icon: <MessagesSquare className="w-10 h-10 text-blue-400" />,
-    description: 'Des assistants virtuels intelligents qui transforment l\'expérience client de votre site web',
+    description: 'Assistants virtuels intelligents pour révolutionner l\'expérience de vos visiteurs',
     features: [
-      'Chatbot personnalisé aux couleurs de votre marque',
+      'Chatbot sur-mesure',
       'Intégration complète à votre site web',
-      'Base de connaissances alimentée par votre contenu',
+      'IA alimentée par votre contenu',
       'Capacité de réponse 24/7 à vos clients',
-      'Guide d\'utilisation du logo'
+      'Maintenance et mise à jour inclus'
     ],
-    price: 'À partir de 899€',
+    price: 'À partir de 899€ + 29€/mois',
     deliveryTime: '72 heures',
-    popular: false
+    popular: true
   },  
   {
     id: 'logos',
