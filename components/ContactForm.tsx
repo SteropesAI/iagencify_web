@@ -37,6 +37,7 @@ export default function ContactForm() {
   });
 
   const services = [
+    "Chatbot IA",
     "Création de logo",
     "Identité visuelle",
     "Communication réseaux sociaux",
